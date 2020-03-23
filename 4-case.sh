@@ -9,4 +9,4 @@ do
 		"guten tag") echo German ;;
 		*)	echo Unkown Language: $f ;;
 	esac
-done < myfile
+done < myfile		# reads from the file - myfile
